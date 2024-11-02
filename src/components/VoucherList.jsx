@@ -185,7 +185,7 @@ const VoucherList = () => {
               <th scope="col" className="px-6 py-3">
                 Customer
               </th>
-              <th scope="col" className="px-6 py-3 text-end">
+              <th scope="col" className="px-6 py-3 flex justify-end items-center">
                 <div className="flex items-center gap-1">
                   <span className=" flex flex-col">
                     <button
